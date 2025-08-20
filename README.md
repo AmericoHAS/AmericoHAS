@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Haward Antunny 👋
 
-<!--
-**AmericoHAS/AmericoHAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Mestrando em Bioestatística** na Universidade Estadual de Maringá (UEM) e **professor de Matemática** com experiência em análise estatística aplicada, modelagem matemática e projetos educacionais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Áreas de Interesse
+- Modelagem estatística hierárquica
+- Análise de dados epidemiológicos e ambientais
+- Modelos não lineares e mistos
+- Programação em **R**, **Python** e desenvolvimento web (**HTML**, **CSS**, **JavaScript**)
+- Ensino de Matemática e metodologias ativas
+
+---
+
+## 🌱 Atualmente
+- Desenvolvendo modelos N-mistura dinâmicos para estimativa de subnotificação de casos de Dengue
+- Criando materiais educativos e atividades de modelagem matemática para Ensino Médio
+
+---
+
+## 💻 Projetos em destaque
+- **Análise de imagens com YOLO**: Classificação e detecção de objetos em imagens
+- **Caçada Trigonométrica**: Projeto interativo para ensino de trigonometria e relações métricas
+- **Dissertação de Bioestatística**: Avaliação de modelos não lineares mistos para dados de degradabilidade ruminal in vitro
+
+---
+
+## 📫 Contato
+- Email: antunnyamerico@gmail.com
+- LinkedIn: [HawardAntunny](https://www.linkedin.com/in/haward-antunny-6175ba196/)
+- GitHub: [github.com/AmericoHAS](https://github.com/seu-usuario)
+- Lattes: [HawardAntunny](http://lattes.cnpq.br/0642206952218832)
