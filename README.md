@@ -28,6 +28,7 @@ Sou **Mestrando em Bioestatística** na Universidade Estadual de Maringá (UEM) 
 
 ## 📫 Contato
 - Email: antunnyamerico@gmail.com
-- LinkedIn: [HawardAntunny](https://www.linkedin.com/in/haward-antunny-6175ba196/)
+- LinkedIn: [HawardAntunny](https://www.linkedin.com/in/haward-antunny-da-silva-am%C3%A9rico-b1761137a/)
 - GitHub: [github.com/AmericoHAS](https://github.com/seu-usuario)
 - Lattes: [HawardAntunny](http://lattes.cnpq.br/0642206952218832)
+- ORCID: [Haward Antunny](https://orcid.org/0009-0009-2018-973X)
