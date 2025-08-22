@@ -4,7 +4,7 @@ Sou **Mestrando em Bioestatística** na Universidade Estadual de Maringá (UEM) 
 
 
 <p align="center">
-  <img src="./img/logo.png" alt="Logo Américo HAS" width="120"/>
+  <img src="./img/logo.png" alt="Logo Américo HAS" width="200"/>
 </p>
 ---
 
