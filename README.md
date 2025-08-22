@@ -2,6 +2,8 @@
 
 Sou **Mestrando em Bioestatística** na Universidade Estadual de Maringá (UEM) e **professor de Matemática** com experiência em análise estatística aplicada, modelagem matemática e projetos educacionais que permitem estimular os alunos com a educação matemática de forma ludica, gamificada e ativa.
 
+
+![Logo](./img/logo.png)
 ---
 
 ## 🔭 Áreas de Interesse
