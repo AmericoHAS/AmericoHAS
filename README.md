@@ -1,6 +1,6 @@
 # Olá, eu sou Haward Antunny 👋
 
-Sou **Mestrando em Bioestatística** na Universidade Estadual de Maringá (UEM) e **professor de Matemática** com experiência em análise estatística aplicada, modelagem matemática e projetos educacionais.
+Sou **Mestrando em Bioestatística** na Universidade Estadual de Maringá (UEM) e **professor de Matemática** com experiência em análise estatística aplicada, modelagem matemática e projetos educacionais que permitem estimular os alunos com a educação matemática de forma ludica, gamificada e ativa.
 
 ---
 
@@ -14,13 +14,13 @@ Sou **Mestrando em Bioestatística** na Universidade Estadual de Maringá (UEM) 
 ---
 
 ## 🌱 Atualmente
-- Desenvolvendo modelos N-mistura dinâmicos para estimativa de subnotificação de casos de Dengue
+- Análises estatísticas voltadas para âmbitos agronomicos com uso de modelos não lineares mistos
 - Criando materiais educativos e atividades de modelagem matemática para Ensino Médio
 
 ---
 
 ## 💻 Projetos em destaque
-- **Análise de imagens com YOLO**: Classificação e detecção de objetos em imagens
+- **Modelos não lineares mistos**: Utilização de modelos NLME na agrônomia
 - **Caçada Trigonométrica**: Projeto interativo para ensino de trigonometria e relações métricas
 - **Dissertação de Bioestatística**: Avaliação de modelos não lineares mistos para dados de degradabilidade ruminal in vitro
 
