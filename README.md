@@ -4,7 +4,7 @@ Sou **Mestrando em Bioestatística** na Universidade Estadual de Maringá (UEM) 
 
 
 <p align="center">
-  <img src="./img/logo.gif.gif" alt="GIF - Américo HAS (Haward Antunny)" width="200"/>
+  <img src="./img/Logo.gif.gif" alt="GIF - Américo HAS (Haward Antunny)" width="200"/>
 </p>
 
 ---
